@@ -1,0 +1,17 @@
+## Interface: 120000, 110207
+## Title: Myslot Auto Save
+## Notes: Auto save character key bindings on login for Myslot
+## Author: Auto Generated
+## Version: 1.0.0
+## SavedVariables: MyslotAutoSaveExports
+## Dependencies: Myslot
+
+libs\base64.lua
+libs\crc32.lua
+libs\lua-pb\lua-pb.xml
+
+protobuf\Myslot.lua
+
+keys.lua
+
+MyslotAutoSave.lua
